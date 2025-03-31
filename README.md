@@ -30,7 +30,7 @@ A simple PyTorch library for super-resolution, built on top of the EDSR model wi
 ```
 EDSRPlus/
 ├── EDSR_plus_attention.ipynb  
-├── model_weights.pth          # Pre-trained weights
+├── model_weights.pth          # Pre-trained weights (update later)
 ├── Images/
 │   ├── output_1.png          
 │   ├── output_2.png          
