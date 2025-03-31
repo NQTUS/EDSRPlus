@@ -48,5 +48,4 @@ These images are generated using the plotting code in `EDSR_plus_attention.ipynb
 
 ## Credits
 Based on the [EDSR model](https://arxiv.org/abs/1707.02921) by Lim et al.
-```
 
