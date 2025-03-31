@@ -31,10 +31,7 @@ A simple PyTorch library for super-resolution, built on top of the EDSR model wi
 EDSRPlus/
 ├── EDSR_plus_attention.ipynb  
 ├── model_weights.pth          # Pre-trained weights (update later)
-├── Images/
-│   ├── output_1.png          
-│   ├── output_2.png          
-│   └── output_3.png          
+├── output.png  
 └── README.md                  
 ```
 
@@ -45,9 +42,7 @@ Here are some example outputs. Each image contains three columns: the low-resolu
 ### Example Output
 | Example Image                                      |
 |----------------------------------------------------|
-| ![Example 1](Images/output_1.png)                 |
-| ![Example 2](Images/output_2.png)                 |
-| ![Example 3](Images/output_3.png)                 |
+| ![Example 1](output.png)                 |
 
 These images are generated using the plotting code in `EDSR_plus_attention.ipynb`.
 
